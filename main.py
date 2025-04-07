@@ -3,7 +3,7 @@ import time
 
 
 def main():
-    TOKEN = "vk1.a.9fW_SO5KbiNqho857BqdFE2YFH0u-tVNtsZRngjLf2L8mybA-aEYnbybkcW24RSMTzzD7RTHKtL7vhG-OZQhlF2OMjPUqx_9mKcjQzNk3yhKUspsZFG0xi9wdXTdiNC3EOGvdL1PsrI8CXJ-O1aYU_r9uZUDrYegEsL3i0x2cMMUqVCtZC2opGqstY227uPhvWT1vgo3Yb531NWgnfZbgw"
+    TOKEN = "..."
     GROUP_ID = "sushi74kop"
 
     parser = VKParser(TOKEN)
